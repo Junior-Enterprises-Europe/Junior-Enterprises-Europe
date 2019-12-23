@@ -28,26 +28,22 @@ h6{
     line-height: 18px;
 }
 
-h1, h2 {
-  text-transform: uppercase;
-}
 h1 {
     font-family: titling-gothic-fb, sans-serif;
     font-style: normal;
-    font-weight: 200;
-  font-size: 5.5em;
-  font-weight: 600;
-  letter-spacing: 0.025em;
-  line-height: 1.1em;
-  color: var(--color-white);
+    font-size: 5.5em;
+    font-weight: 600;
+    letter-spacing: 0.025em;
+    line-height: 1.1em;
+    color: var(--color-white);
+    text-transform: uppercase;
 }
 h2 {
     font-family: titling-gothic-fb, sans-serif;
     font-style: normal;
-    font-weight: 100;
-  font-size: 40px;
-  font-weight: 400;
-  letter-spacing: 0.025em;
+    font-size: 45px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
 }
 h3 {
   font-size: 30px;

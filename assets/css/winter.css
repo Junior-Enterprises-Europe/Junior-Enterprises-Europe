@@ -52,10 +52,55 @@ button:hover {
 
 #btn-staff {
     left: 21vw;
-    top: 73vh;
+    top: 373vh;
 }
 
 #btn-tickets {
     left: 21vw;
     top: 176vh;
+}
+
+#largestnet {
+    position: relative;
+    top: 10vh;
+    left: 5vw;
+    line-height: 1.3;
+}
+
+#largestnet2 {
+    position: relative;
+    top: 20vh;
+    left: 5vw;
+    font-size: 30px;
+    line-height: 1.2;
+}
+
+#whychange {
+    position: relative;
+    bottom: 85vh;
+    left: 5vw;
+    line-height: 1.3;
+    color: white;
+}
+
+#whychange2 {
+    position: relative;
+    bottom: 85vh;
+    left: 5vw;
+    line-height: 1.3;
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 25px;
+}
+
+#staffdesc {
+    position: relative;
+    top: 20vh;
+    left: 5vw;
+    line-height: 1.3;
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 25px;
+}
+
+.container {
+  position: inherit;
 }
