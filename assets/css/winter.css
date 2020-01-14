@@ -65,13 +65,14 @@ button:hover {
     top: 10vh;
     left: 5vw;
     line-height: 1.3;
+    font-size: 2em;
 }
 
 #largestnet2 {
     position: relative;
     top: 20vh;
     left: 5vw;
-    font-size: 30px;
+    font-size: 1.5em;
     line-height: 1.2;
 }
 
@@ -81,6 +82,7 @@ button:hover {
     left: 5vw;
     line-height: 1.3;
     color: white;
+    font-size: 2.5em;
 }
 
 #whychange2 {
@@ -89,7 +91,7 @@ button:hover {
     left: 5vw;
     line-height: 1.3;
     color: rgba(255, 255, 255, 0.85);
-    font-size: 25px;
+    font-size: 1.6em;
 }
 
 #staffdesc {
@@ -98,7 +100,7 @@ button:hover {
     left: 5vw;
     line-height: 1.3;
     color: rgba(0, 0, 0, 0.85);
-    font-size: 25px;
+    font-size: 1.6em;
 }
 
 .container {

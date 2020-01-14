@@ -41,7 +41,7 @@ h1 {
 h2 {
     font-family: titling-gothic-fb, sans-serif;
     font-style: normal;
-    font-size: 45px;
+    font-size: 4.5em;
     font-weight: 600;
     letter-spacing: 0.02em;
 }
@@ -67,7 +67,7 @@ input[type=submit]:hover {
   cursor: pointer;
 }
 a {
-  color: var(--color-lightpink);
+  color: white;
   text-decoration: underline;
 }
 .container {
@@ -175,6 +175,7 @@ a {
   .hidden {
     display: none;
   }
+
 }
 @media (max-width: 680px) { /*mobile*/
   .support {
