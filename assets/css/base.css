@@ -176,6 +176,14 @@ a {
     display: none;
   }
 
+  .big {
+    display: none;
+  }
+
+  .small {
+      display: run-in;
+  }
+
 }
 @media (max-width: 680px) { /*mobile*/
   .support {
