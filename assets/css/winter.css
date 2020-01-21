@@ -65,7 +65,7 @@ button:hover {
     top: 10vh;
     left: 5vw;
     line-height: 1.3;
-    font-size: 2em;
+    font-size: 1.8em;
 }
 
 #largestnet2 {
@@ -78,7 +78,7 @@ button:hover {
 
 #whychange {
     position: relative;
-    bottom: 85vh;
+    top: 10vh;
     left: 5vw;
     line-height: 1.3;
     color: white;
@@ -87,7 +87,7 @@ button:hover {
 
 #whychange2 {
     position: relative;
-    bottom: 85vh;
+    top: 10vh;
     left: 5vw;
     line-height: 1.3;
     color: rgba(255, 255, 255, 0.85);
