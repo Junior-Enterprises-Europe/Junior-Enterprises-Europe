@@ -93,32 +93,32 @@ a {
 }
 
 #whychangediv {
-    width: 50vw;
+    width: 100vw;
     float:right;
     height:100vh;
     background:#147fd3;
     margin:0px
     position:relative;
 }
-#whychangedivphoto {
+/* #whychangedivphoto {
     width: 50vw;
     float:left;
     height:100vh;
     margin:0px
-}
+} */
 
 #excellencediv {
-    width: 50vw;
+    width: 100vw;
     height:100vh;
     float:left;
     background:#DBE7F0;
     margin:0px;
 }
-#excellencedivphoto {
+/* #excellencedivphoto {
     width: 50vw;
     height:100vh;
     float: right;
-}
+} */
 /* --------------------------------------------- Footer --------------------------------------------- */
 .footer {
   display: flex;
