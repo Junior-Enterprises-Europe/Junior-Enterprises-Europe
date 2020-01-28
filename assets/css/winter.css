@@ -106,3 +106,10 @@ button:hover {
 .container {
   position: inherit;
 }
+
+#foto3 {
+    position: relative;
+    left: 50vw;
+    width: 30vw;
+    height: auto;
+}
