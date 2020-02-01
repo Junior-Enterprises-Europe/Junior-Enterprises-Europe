@@ -127,9 +127,6 @@ a {
   padding: 4rem 7rem;
   background: var(--color-grey);
   min-height: 40vh;
-  position: absolute;
-  bottom: 0;
-  width: 100%;
 }
 .footer_collumn {
   display: flex;
@@ -164,9 +161,7 @@ a {
   margin-top: 4rem;
 }
 #footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+  width: 130px;
   height: auto;
 }
 .social_networks {
